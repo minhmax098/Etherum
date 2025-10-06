@@ -4,15 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "foo",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -26,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/mapping.sol": "Mapping"
+			"contracts/handleError.sol": "HandleError"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -40,11 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/mapping.sol": {
-			"keccak256": "0xfc6f28a9933ad031b7ce337a7bdc00201dec1fbaa66277c98e101eb02c74ea96",
+		"contracts/handleError.sol": {
+			"keccak256": "0x099158175d20301cda1d72855336e94125246af3b96ab421782bf7ef5898452d",
+			"license": "MIT",
 			"urls": [
-				"bzz-raw://9a30ceb083f630f1fce8a932eb76eedefec1e567e35cf2b907c04dfe3fb7ee0b",
-				"dweb:/ipfs/QmcGsr8jgyaMirJFh7UFYSWTFLcYa3EtFKxZzoy849BqPo"
+				"bzz-raw://a00c2e095bc8a0a6042cfb5eba8545052d1bedfa2d16a6b59c59ab455d1af3b8",
+				"dweb:/ipfs/QmRnPzrFP8QEdsyFmaEJt4E4TTaKTKxP1rM6JiWMAm9oiW"
 			]
 		}
 	},

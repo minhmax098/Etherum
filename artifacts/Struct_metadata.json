@@ -26,7 +26,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/mapping.sol": "Mapping"
+			"contracts/struct.sol": "Struct"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -40,11 +40,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/mapping.sol": {
-			"keccak256": "0xfc6f28a9933ad031b7ce337a7bdc00201dec1fbaa66277c98e101eb02c74ea96",
+		"contracts/struct.sol": {
+			"keccak256": "0x0083df77c2f260df2d8f753ee56327e1ddd42beb19e199aa4e817249d4a93344",
+			"license": "MIT",
 			"urls": [
-				"bzz-raw://9a30ceb083f630f1fce8a932eb76eedefec1e567e35cf2b907c04dfe3fb7ee0b",
-				"dweb:/ipfs/QmcGsr8jgyaMirJFh7UFYSWTFLcYa3EtFKxZzoy849BqPo"
+				"bzz-raw://076fa684bffd6ea12848437649be9dc721e1f88aa1c614fed9e3662ca4811083",
+				"dweb:/ipfs/Qmef31ufbuMWUD5xUHGXNvtvx4QRb4L3mi9nYRbTG9WEyL"
 			]
 		}
 	},
