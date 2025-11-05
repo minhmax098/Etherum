@@ -4,7 +4,84 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_mezatSahibi",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_mezatSahibi",
+						"type": "address"
+					}
+				],
+				"name": "Sahip",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "enYuksekTeklif",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "enYuksekTeklifiVeren",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "mezatSahibi",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "mezatSonlandi",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -33,10 +110,10 @@
 	},
 	"sources": {
 		"contracts/onek.sol": {
-			"keccak256": "0x7cba6b4d992926a3a810c16afd885689e956140b78841af71bf44bd1445ddfaa",
+			"keccak256": "0xced0b374235c4b5668cdd4edddf3b8af735f13e16dce19b2b9fdf03964aeb604",
 			"urls": [
-				"bzz-raw://a83cfc9d952ea3e4d2ad97dc37d56020450c3ee3c958030ceae859915920b101",
-				"dweb:/ipfs/QmdZNeQuHqQngGWZiNXfU3VmAPYStXstcj4KcTYMAyivPU"
+				"bzz-raw://f391c999002e8c7937bc8d93afd10387e6861ac098e49105e8b573aadca639ed",
+				"dweb:/ipfs/QmSu7guHtThKi2XaUUJUBvQchsRsjUHNQEwh3wsU6MdEW3"
 			]
 		}
 	},
