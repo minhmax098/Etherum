@@ -11,22 +11,27 @@
 						"internalType": "address",
 						"name": "_mezatSahibi",
 						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_sure",
+						"type": "uint256"
 					}
 				],
 				"stateMutability": "nonpayable",
 				"type": "constructor"
 			},
 			{
-				"inputs": [
+				"inputs": [],
+				"name": "bitis",
+				"outputs": [
 					{
-						"internalType": "address",
-						"name": "_mezatSahibi",
-						"type": "address"
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
 					}
 				],
-				"name": "Sahip",
-				"outputs": [],
-				"stateMutability": "nonpayable",
+				"stateMutability": "view",
 				"type": "function"
 			},
 			{
@@ -110,10 +115,10 @@
 	},
 	"sources": {
 		"contracts/onek.sol": {
-			"keccak256": "0xced0b374235c4b5668cdd4edddf3b8af735f13e16dce19b2b9fdf03964aeb604",
+			"keccak256": "0x871d2f536426ee77e50d82d463f68e303242beff3e7e8e79562b29479fff7dbc",
 			"urls": [
-				"bzz-raw://f391c999002e8c7937bc8d93afd10387e6861ac098e49105e8b573aadca639ed",
-				"dweb:/ipfs/QmSu7guHtThKi2XaUUJUBvQchsRsjUHNQEwh3wsU6MdEW3"
+				"bzz-raw://3550604d2fee0c6fb1c16745047dd3734b45d39e9eec7e21496176c114cc80c6",
+				"dweb:/ipfs/QmfSe9ioFBsGvyysSSD6EwZUGstib3waN42k7kdWy7uC4p"
 			]
 		}
 	},
