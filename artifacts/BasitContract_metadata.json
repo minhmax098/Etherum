@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/onek.sol": "BasitContract"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/onek.sol": {
+			"keccak256": "0x7cba6b4d992926a3a810c16afd885689e956140b78841af71bf44bd1445ddfaa",
+			"urls": [
+				"bzz-raw://a83cfc9d952ea3e4d2ad97dc37d56020450c3ee3c958030ceae859915920b101",
+				"dweb:/ipfs/QmdZNeQuHqQngGWZiNXfU3VmAPYStXstcj4KcTYMAyivPU"
+			]
+		}
+	},
+	"version": 1
+}
